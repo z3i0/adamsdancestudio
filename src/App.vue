@@ -785,7 +785,7 @@ onUnmounted(() => {
         </div>
 
         <div class="pt-16 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8">
-          <p class="text-gray-500 text-sm font-medium">© 2024 Adam's Dance Studio. All rights reserved.</p>
+          <p class="text-gray-500 text-sm font-medium">© 2026 Adam's Dance Studio. All rights reserved.</p>
           <div class="flex gap-8">
             <a href="#"
               class="text-gray-500 hover:text-white text-[10px] uppercase font-black tracking-widest transition-colors">Privacy
